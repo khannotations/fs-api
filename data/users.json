@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "firstName": "rafi",
+    "lastName": "khan",
+    "email": "rafi@ixperience.co.za",
+    "password": "rafi"
+}, {
+    "id": 2,
+    "firstName": "dani",
+    "lastName": "ohanyon",
+    "email": "dani@ixperience.co.za",
+    "password": "dani"
+}, {
+    "id": 3,
+    "firstName": "brett",
+    "lastName": "webb",
+    "email": "brett@ixperience.co.za",
+    "password": "brett"
+}]
